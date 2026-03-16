@@ -103,8 +103,8 @@ public class OpenAPIConfiguration {
                                 "   ```")
                         .contact(new Contact()
                                 .name("Hotel Booking System Team")
-                                .email("support@hotelbooking.com")
-                                .url("https://github.com/hotel-booking-system"))
+                                .email("dipdeveloper.connect@gmail.com")
+                                .url("https://github.com/TheDipDeveloper"))
                         .license(new License()
                                 .name("Apache License 2.0")
                                 .url("https://www.apache.org/licenses/LICENSE-2.0.html")));
